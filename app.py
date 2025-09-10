@@ -51,4 +51,3 @@ if st.button("Generate Video"):
                 st.video(video_path)
                 with open(video_path, "rb") as file:
                     st.download_button("📥 Download Video", file, file_name="final_video.mp4")
-
