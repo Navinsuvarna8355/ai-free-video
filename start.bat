@@ -1,1 +1,3 @@
-
+@echo off
+echo Starting AI Cartoon Video Generator...
+streamlit run app.py
