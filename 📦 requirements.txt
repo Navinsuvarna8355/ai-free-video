@@ -1,5 +1,6 @@
 streamlit
 transformers==4.35.0
+sentencepiece
 gtts
 moviepy
 Pillow
